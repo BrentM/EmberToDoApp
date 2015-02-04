@@ -8,3 +8,7 @@ Using this to get started: http://emberjs.com/guides/getting-started/
 
 ##Check them in
 I'm just checking in everything to keep things simple.
+
+##Handlebars bindattr
+The bind-attr in the li element outputs the class value after the : based on the boolean value in isCompleted.
+http://emberjs.com/guides/getting-started/displaying-a-models-completeness/
